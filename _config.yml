@@ -1,0 +1,71 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Build settings
+theme: "just-the-docs"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: OOPP
+email: oopp-cs-ewi@tudelft.nl
+description: >- # this means to ignore newlines until "baseurl:"
+  Website and assignments for the OOP Project (CSE1105) at Delft University of Technology.
+  This course is part of the bachelor of Computer Science and Engineering.
+baseurl: "/oopp" # the subpath of your site, e.g. /blog
+url: "https://se.ewi.tudelft.nl" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+surfdrive_id: "dXHxHUoVNEXvX3o" # the hash from a surfdrive link
+surfdrive: "https://surfdrive.surf.nl/files/index.php/s/dXHxHUoVNEXvX3o"
+
+# OOPP Specific things ----------------------------------------------------------------------------------------
+color_scheme: tudelft
+logo: "assets/images/tudelft.png"
+# Links that show in the top right
+aux_links:
+  "GitLab":
+    - "https://gitlab.ewi.tudelft.nl/cse1105/2022-2023/"
+  "Brightspace":
+    - "https://brightspace.tudelft.nl/d2l/home/499389"
+  "Studyguide":
+    - "https://studyguide.tudelft.nl/a101_displayCourse.do?course_id=61477"
+  "Q&A":
+    - "https://answers.ewi.tudelft.nl/categories/1/tags/123"
+aux_links_new_tab: false

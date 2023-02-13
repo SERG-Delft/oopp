@@ -1,0 +1,22 @@
+lecturers:
+  - name: Dr.-Ing. Sebastian Proksch
+    email: oopp-cs-ewi at tudelft nl
+    function: Assistant Professor
+    research_group: SERG, Assistant Professor
+    research_group_url: https://serg.ewi.tudelft.nl
+    photo: /assets/images/staff/SP.jpg
+
+head_tas:
+  - name: Alexandru Postu
+    email: a.n.postu at student tudelft nl
+    netid: apostu
+  - name: Merel Steenbergen
+    email: m.a.steenbergen at student tudelft nl
+    netid: masteenbergen
+
+tas:
+  - name: TODO
+    email: x at y z
+    netid: xyz
+    groups: 9-12
+    spot: Instruction Hall 1, Spot 3
