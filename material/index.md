@@ -35,7 +35,7 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 	)
 
 
-[intro-slides]: TODO
+[intro-slides]: {% surfdrive /intro.pdf %}
 
 [teamwork-reader]: {% surfdrive /Teamwork/Teamwork modules 1-3-4.pdf %}
 [teamwork-coc]: {% surfdrive /Teamwork/Templates/Template - CodeOfConduct ENG v1.0.docx %}
