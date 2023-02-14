@@ -58,10 +58,10 @@ permalink: /course_info/schedule/ta_slots/
 |49 | DW IR1 right-side | Rareș Toader | 14:30 - 15:15|
 |50 | DW IR1 right-side | Rareș Toader | 15:15 - 16:00|
 |51 | DW IR1 right-side | Rareș Toader | 16:00 - 16:45|
-|52 | DW IR2 right-side | Natalia Pietnoczko | 13:45 - 14:30|
-|53 | DW IR2 right-side | Natalia Pietnoczko | 14:30 - 15:15|
-|54 | DW IR2 right-side | Natalia Pietnoczko | 15:15 - 16:00|
-|55 | DW IR2 right-side | Natalia Pietnoczko | 16:00 - 16:45|
+|52 | DW IR2 right-side (Week 1 online) | Natalia Pietnoczko | 13:45 - 14:30|
+|53 | DW IR2 right-side (Week 1 online) | Natalia Pietnoczko | 14:30 - 15:15|
+|54 | DW IR2 right-side (Week 1 online) | Natalia Pietnoczko | 15:15 - 16:00|
+|55 | DW IR2 right-side (Week 1 online) | Natalia Pietnoczko | 16:00 - 16:45|
 |56 | DW IR3 right-side | Aleksandra Jach | 13:45 - 14:30|
 |57 | DW IR3 right-side | Aleksandra Jach | 14:30 - 15:15|
 |58 | DW IR3 right-side | Aleksandra Jach | 15:15 - 16:00|
@@ -82,7 +82,7 @@ permalink: /course_info/schedule/ta_slots/
 |73 | DW TZ2 left-back | Elena Dumitrescu | 14:30 - 15:15|
 |74 | DW TZ2 left-back | Elena Dumitrescu | 15:15 - 16:00|
 |75 | DW TZ2 left-back | Elena Dumitrescu | 16:00 - 16:45|
-|76 | DW TZ2 right-back | Iarina Tudor | 13:45 - 14:30|
-|77 | DW TZ2 right-back | Iarina Tudor | 14:30 - 15:15|
-|78 | DW TZ2 right-back | Iarina Tudor | 15:15 - 16:00|
-|79 | DW TZ2 right-back | Iarina Tudor | 16:00 - 16:45|
+|76 | DW TZ2 right-back (Week 1 online) | Iarina Tudor | 13:45 - 14:30|
+|77 | DW TZ2 right-back (Week 1 online) | Iarina Tudor | 14:30 - 15:15|
+|78 | DW TZ2 right-back (Week 1 online) | Iarina Tudor | 15:15 - 16:00|
+|79 | DW TZ2 right-back (Week 1 online) | Iarina Tudor | 16:00 - 16:45|
