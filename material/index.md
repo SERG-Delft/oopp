@@ -25,7 +25,7 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 
 ### Week 1
 
-- Introduction ([Slides][intro-slides])
+- Introduction ([Slides][intro-slides], [Video (no screen share :/)][intro-video])
 - Teamwork
 	([Teamwork Reader][teamwork-reader],
 	[Template (Code of Conduct)][teamwork-coc],
