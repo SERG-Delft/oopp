@@ -4,6 +4,7 @@ title: Schedule
 permalink: /schedule/
 nav_order: 2
 parent: Course Info
+has_children: true
 permalink: /course_info/schedule/
 ---
 
@@ -53,20 +54,8 @@ The teams will be formed in the first week.
 You can find your team number on Brightspace, when you click on *Collaboration » Groups*.
 The table on that list also includes an email symbol, you can contact your team members through this link, if you want to get in contact with everybody in the first week.
 
-Once you know your team number, you can check the [staff page]({{site.baseurl}}/course_info/staff/) to find your TA and where you will meet in week one.
-Every team will have a 45min slot with their TA.
-To understand when this meeting will take place, first calculate the slot id (`slot id = team_number modulo 5`).
-You can then easily lookup your slot in the following table.
-
-| Slot Id | Time |
-| --- | --- |
-| 0 | 1:45pm |
-| 1 | 2:30pm |
-| 2 | 3:15pm |
-| 3 | 4pm |
-| 4 | 4:45pm |
-
-Take Team 37 as an example: 37 modulo 5 = 2, so the team will meet at 3:15pm.
+Once you know your team number, you can check the [staff page]({{site.baseurl}}/course_info/staff/) to find your TA.
+In week 1, every team will have a 45min slot with their TA, you can find your concrete timeslot in the [overview]({{site.baseurl}}/course_info/schedule/ta_slots/).
 
 {: .caution}
 This timeslot is only valid in week 1 to make sure that everybody knows *when* to show up *where*.

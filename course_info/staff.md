@@ -89,12 +89,12 @@ permalink: /course_info/staff/
         </td>
         <td style="border-left: 0px solid; text-align: right; color: gray; font-style: italic;">
             {% if ta.groups and ta.spot %}
-                Groups: {{ ta.groups }},
+                Groups: {{ ta.groups }}<br />
             {% elsif ta.groups %}
                 Groups: {{ ta.groups }}
             {% endif %}
             {% if ta.spot %}
-                Spot: {{ ta.spot }}
+                {{ ta.spot }}
             {% endif %}
         </td>
     </tr>

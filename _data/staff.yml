@@ -15,8 +15,93 @@ head_tas:
     netid: masteenbergen
 
 tas:
-  - name: TODO
-    email: x at y z
-    netid: xyz
-    groups: 9-12
-    spot: Instruction Hall 1, Spot 3
+  - name: Khalid El Haji
+    email: k.elhaji at student tudelft nl
+    netid: kelhaji
+    groups: 1-5
+    spot: DW PC1 cubicles 1-5
+  - name: Joris Belder
+    email: j.belder-1 at student tudelft nl
+    netid: jorisbelder
+    groups: 6-10
+    spot: DW PC1 cubicles 6-10
+  - name: Maria Mihai
+    email: m.t.mihai-1 at student tudelft nl
+    netid: mmihai
+    groups: 11-15
+    spot: DW PC1 cubicles 11-14/backroom
+  - name: Alexandra Marcu
+    email: a.m.marcu-1 at student tudelft nl
+    netid: ammarcu
+    groups: 16-20
+    spot: DW IR1 left-side
+  - name: Catalin Brita
+    email: c.e.brita at student tudelft nl
+    netid: cbrita
+    groups: 21-25
+    spot: DW IR2 left-side
+  - name: Carina-Silvia Oprean
+    email: c.s.oprean at student tudelft nl
+    netid: coprean
+    groups: 26-30
+    spot: DW IR3 left-side
+  - name: Mirella Günther
+    email: m.gunther-1 at student tudelft nl
+    netid: mirellagunther
+    groups: 31-35
+    spot: DW IR4 left-side
+  - name: Mike Erkemeij
+    email: m.j.j.s.erkemeij at student tudelft nl
+    netid: merkemeij
+    groups: 36-39
+    spot: DW PC2
+  - name: Danae Natalie Savvidi
+    email: d.n.savvidi at student tudelft nl
+    netid: dsavvidi
+    groups: 40-43
+    spot: DW PC2
+  - name: Alexandru Bobe
+    email: a.bobe at student tudelft nl
+    netid: abobe
+    groups: 44-47
+    spot: DW PC3
+  - name: Rareș Toader
+    email: r.a.toader at student tudelft nl
+    netid: rtoader
+    groups: 48-51
+    spot: DW IR1 right-side
+  - name: Natalia Pietnoczko
+    email: n.pietnoczko at student tudelft nl
+    netid: npietnoczko
+    groups: 52-55
+    spot: DW IR2 right-side
+  - name: Aleksandra Jach
+    email: a.m.jach at student tudelft nl
+    netid: ajach
+    groups: 56-59
+    spot: DW IR3 right-side
+  - name: Ana Marcu
+    email: a.c.marcu-1 at student tudelft nl
+    netid: acmarcu
+    groups: 60-63
+    spot: DW IR4 right-side
+  - name: Cristian Soare
+    email: c.soare at student tudelft nl
+    netid: csoare
+    groups: 64-67
+    spot: DW TZ2 front-left
+  - name: Alexandra Ioana Neagu
+    email: a.i.neagu at student tudelft nl
+    netid: alexandraioana
+    groups: 68-71
+    spot: DW TZ2 front-right
+  - name: Elena Dumitrescu
+    email: e.i.dumitrescu-1 at student tudelft nl
+    netid: edumitrescu
+    groups: 72-75
+    spot: DW TZ2 left-back
+  - name: Iarina Tudor
+    email: i.m.tudor at student tudelft nl
+    netid: itudor
+    groups: 76-79
+    spot: DW TZ2 right-back
