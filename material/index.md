@@ -44,8 +44,6 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 [teamwork-minute-taker]: {% surfdrive /Teamwork/Role Minute Taker ENG v1.0.pdf %}
 [teamwork-chair]: {% surfdrive /Teamwork/Role Chair ENG v1.0.pdf %}
 
-[recording-intro]: http://asd
-
 
 ### Week 4
 
