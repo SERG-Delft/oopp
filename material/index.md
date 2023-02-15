@@ -29,6 +29,7 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 - Teamwork
 	([Reader][teamwork-reader],
 	[Video][teamwork-video],
+	[Slides][teamwork-slides],
 	[Template (Code of Conduct)][teamwork-coc],
 	[Template (Meeting Agenda)][teamwork-agenda],
 	[Role: Minute Taker][teamwork-minute-taker],
@@ -39,6 +40,7 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 [intro-slides]: {% surfdrive /Introduction/intro-slides.pdf %}
 [intro-video]: {% surfdrive /Introduction/intro-video.mp4 %}
 
+[teamwork-slides]: {% surfdrive /Teamwork/teamwork-slides.pdf %}
 [teamwork-video]: {% surfdrive /Teamwork/teamwork-video.mov %}
 [teamwork-reader]: {% surfdrive /Teamwork/Teamwork modules 1-3-4.pdf %}
 [teamwork-coc]: {% surfdrive /Teamwork/Templates/Template - CodeOfConduct ENG v1.0.docx %}
