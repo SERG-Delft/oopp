@@ -5,6 +5,7 @@ permalink: /schedule/
 nav_order: 2
 parent: Course Info
 has_children: true
+has_toc: false
 permalink: /course_info/schedule/
 ---
 
@@ -46,20 +47,22 @@ Students will participate in a weekly lab session.
 The lab is scheduled every Tuesday from 1:45-5:45pm in [Drebbelweg](https://spacefinder.tudelft.nl/nl/gebouwen/35-dw/)
 The session is not only a chance for the teams to work together for an extended period of time, it also includes a *mandatory* meeting with your TA.
 
+Each student has one *joker*, which can be used for missing exactly one TA meeting without a valid excuse.
+If you have a valid reason for absence, you will keep your joker.
+
 {: .caution}
-Valid reasons for an absence need to be approved by the course staff *before* missing a meeting.
-Missing a lab without excuse will lead to the removal from the group.
+Reasons for absence need to be approved by the course staff *before* missing a meeting.
+Missing a TA meeting *without valid reason* and *no joker left* will lead to the removal from the group.
 
 The teams will be formed in the first week.
 You can find your team number on Brightspace, when you click on *Collaboration » Groups*.
-The table on that list also includes an email symbol, you can contact your team members through this link, if you want to get in contact with everybody in the first week.
-
-Once you know your team number, you can check the [staff page]({{site.baseurl}}/course_info/staff/) to find your TA.
-In week 1, every team will have a 45min slot with their TA, you can find your concrete timeslot in the [overview]({{site.baseurl}}/course_info/schedule/ta_slots/).
+This table also includes an email symbol, which allows to can contact all your team members.
+With your team number, you can find your TA on the [staff page]({{site.baseurl}}/course_info/staff/).
+Your TA will let you know where and when you will meet during week 2+.
 
 {: .caution}
-This timeslot is only valid in week 1 to make sure that everybody knows *when* to show up *where*.
-Your TA will let you know when you will meet in week 2 and onwards.
+You will already meet your TA in week 1, according to the [week 1 meeting slots]({{site.baseurl}}/course_info/schedule/ta_slots/).
+This timeslot is only valid in week 1 though to make sure that everybody knows *when* to show up *where*.
 
 
 ### Assignment Deadlines
