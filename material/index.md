@@ -35,6 +35,7 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 	[Role: Minute Taker][teamwork-minute-taker],
 	[Role: Chair][teamwork-chair],
 	)
+- Requirements Engineering ([Video][re-video], [Slides][re-slides]) & Project Management (to be released today)
 
 
 [intro-slides]: {% surfdrive /Introduction/intro-slides.pdf %}
@@ -47,6 +48,11 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 [teamwork-agenda]: {% surfdrive /Teamwork/Templates/Template Agenda + notes ENG v1.0.docx %}
 [teamwork-minute-taker]: {% surfdrive /Teamwork/Role Minute Taker ENG v1.0.pdf %}
 [teamwork-chair]: {% surfdrive /Teamwork/Role Chair ENG v1.0.pdf %}
+
+[re-slides]: {% surfdrive /Requirements Engineering and Project Management/requirements-engineering-slides.pdf %}
+[re-video]: {% surfdrive /Requirements Engineering and Project Management/requirements-engineering-video.mov %}
+[pm-slides]: {% surfdrive /Requirements Engineering and Project Management/project-management-slides.pdf %}
+[pm-video]: {% surfdrive /Requirements Engineering and Project Management/project-management-video.mov %}
 
 
 ### Week 4
