@@ -50,9 +50,9 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 [teamwork-chair]: {% surfdrive /Teamwork/Role Chair ENG v1.0.pdf %}
 
 [re-slides]: {% surfdrive /Requirements Engineering and Project Management/requirements-engineering-slides.pdf %}
-[re-video]: {% surfdrive /Requirements Engineering and Project Management/requirements-engineering-video.mov %}
+[re-video]: {% surfdrive /Requirements Engineering and Project Management/requirements-engineering-video.mp4 %}
 [pm-slides]: {% surfdrive /Requirements Engineering and Project Management/project-management-slides.pdf %}
-[pm-video]: {% surfdrive /Requirements Engineering and Project Management/project-management-video.mov %}
+[pm-video]: {% surfdrive /Requirements Engineering and Project Management/project-management-video.mp4 %}
 
 
 ### Week 4
