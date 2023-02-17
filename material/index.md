@@ -35,7 +35,7 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 	[Role: Minute Taker][teamwork-minute-taker],
 	[Role: Chair][teamwork-chair],
 	)
-- Requirements Engineering ([Video][re-video], [Slides][re-slides]) & Project Management (to be released today)
+- Requirements Engineering ([Video][re-video], [Slides][re-slides]) & Project Management ([Video][pm-video], [Slides][pm-slides])
 
 
 [intro-slides]: {% surfdrive /Introduction/intro-slides.pdf %}
