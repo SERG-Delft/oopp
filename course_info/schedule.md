@@ -32,13 +32,13 @@ These slots represents moments for self-study and we will provide pre-recorded l
 | --- | --- |
 | Mon, Feb 13 | Introduction: Orga, Topic, Client Q&A |
 | Wed, Feb 15 | Teamwork |
-| Fri, Feb 17 | Requirements Engineering & Project Management (Online Lecture) |
-| Mon, Feb 20 | Collaborative Software Engineering, Client Q&A |
-| Wed, Feb 22 | Git and Build Tools |
-| Fri, Feb 24 | Dependency Injection (Online Lecture) |
+| Fri, Feb 17 | Requirements Engineering & Project Management (Self Study) |
+| Mon, Feb 20 | Tools |
+| Wed, Feb 22 | Collaborative Software Engineering, Client Q&A |
+| Fri, Feb 24 | Dependency Injection (Self Study) |
 | Mon, Feb 27 | Getting Started with Spring Boot, Client Q&A |
 | Wed, Mar 1 | Java FX |
-| Fri, Mar 3 | Tech Demo for Template Project & Propagate data in a distributed application (Online Lecture) |
+| Fri, Mar 3 | Tech Demo for Template Project & Propagate data in a distributed application (Self Study) |
 | Mon, Mar 6 | Heuristic Usability Evaluation |
 
 ### Labs
