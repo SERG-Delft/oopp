@@ -58,11 +58,11 @@ The teams will be formed in the first week.
 You can find your team number on Brightspace, when you click on *Collaboration » Groups*.
 This table also includes an email symbol, which allows to can contact all your team members.
 With your team number, you can find your TA on the [staff page]({{site.baseurl}}/course_info/staff/).
-Your TA will let you know where and when you will meet during week 2+.
+Your TA will let you know *where* and *when* you will meet in week 2+.
 
 {: .caution}
-You will already meet your TA in week 1, according to the [week 1 meeting slots]({{site.baseurl}}/course_info/schedule/ta_slots/).
-This timeslot is only valid in week 1 though to make sure that everybody knows *when* to show up *where*.
+The [week 2 meeting slots]({{site.baseurl}}/course_info/schedule/ta_slots/) have been updated.
+Unless your TA has communicated a different time with you, please stick to the info in that overview.
 
 
 ### Assignment Deadlines
