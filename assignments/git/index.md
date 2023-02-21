@@ -12,6 +12,9 @@ permalink: /assignments/git/
 Work on this page has not finished yet.
 Expect completion in the first weeks of the course.
 
+{: .important}
+The Git assignment will change for this year.
+Do not worry, when you only see an empty repository on Gitlab, the assignment instructions will be updated timely.
 
 This set of exercises aims to help you getting started with Git. Git is the Version Control System we 
 use in this course. Git is very popular, it is used by many companies industry, so knowing how to work 
