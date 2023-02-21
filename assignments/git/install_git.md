@@ -42,11 +42,11 @@ We advise to set it globally using the following commands on your terminal.
 
 ```
 git config --global user.name “Your full name”
-git config --global user.email “Your student email”
+git config --global user.email “Your student email that ends in @student.tudelft.nl”
 ```
 
-For a *per project* configuration, just leave out the `--global` flag.
-To check whether it worked you can run;
+A *per project* configuration omits the `--global` flag.
+To check whether it worked you can run:
 
 ```
 git config --global user.name
@@ -57,5 +57,5 @@ This should output whatever you configured using the commands above.
 You should now have everything set to get started with git.
 
 {: .caution}
-Make sure that you use your *full name* and your student email adress that ends with `@student.tudelft.nl`.
+Make sure that you use your *full name* and your *student email address* that ends with `@student.tudelft.nl` or the server will reject your push.
 
