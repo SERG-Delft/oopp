@@ -25,17 +25,16 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 
 ### Week 1
 
-- Mon: Introduction ([Slides][intro-slides], [Video (no screen share :/)][intro-video])
-- Wed: Teamwork
-	([Reader][teamwork-reader],
-	[Video][teamwork-video],
-	[Slides][teamwork-slides],
-	[Template (Code of Conduct)][teamwork-coc],
-	[Template (Meeting Agenda)][teamwork-agenda],
-	[Role: Minute Taker][teamwork-minute-taker],
-	[Role: Chair][teamwork-chair],
-	)
-- Fri, Self-Study: Requirements Engineering ([Video][re-video], [Slides][re-slides]) & Project Management ([Video][pm-video], [Slides][pm-slides])
+- *Mon:* Introduction ([Slides][intro-slides], [Video (no screen share :/)][intro-video])
+- *Wed:* Teamwork ([Slides][teamwork-slides], [Video][teamwork-video])
+    - [Reader][teamwork-reader]
+    - [Template (Code of Conduct)][teamwork-coc]
+    - [Template (Meeting Agenda)][teamwork-agenda]
+    - [Role: Minute Taker][teamwork-minute-taker]
+    - [Role: Chair][teamwork-chair]
+- *Fri, Self-Study:*
+    - Requirements Engineering ([Video][re-video], [Slides][re-slides])
+    - Project Management ([Video][pm-video], [Slides][pm-slides])
 
 [intro-slides]: {% surfdrive /Introduction/intro-slides.pdf %}
 [intro-video]: {% surfdrive /Introduction/intro-video.mp4 %}
@@ -55,16 +54,20 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 
 ### Week 2
 
-- Fri, Self-Study: Dependency Injection ([Slides][ss-di-slides], [Video][ss-di-video])
+- *Mon:* Tools ([Slides][tools-slides], [Video][tools-video])
+- *Fri, Self-Study:* Dependency Injection ([Slides][ss-di-slides], [Video][ss-di-video])
 
+[tools-slides]: {% surfdrive /Tools/tools-slides.pdf %}
+[tools-video]: {% surfdrive /Tools/tools-video.mp4 %}
 [ss-di-slides]: {% surfdrive /Self-Study/dependency-injection-slides.mp4 %}
 [ss-di-video]: {% surfdrive /Self-Study/dependency-injection-video.mp4 %}
 
 ### Week 3
 
 
-- Fri, Self-Study: Tech Demo for Template Project ([Video][ss-template-video])
-- Fri, Self-Study: Propagate Data in a Distributed Application ([Video][ss-data-video])
+- *Fri, Self-Study:*
+    - Tech Demo for Template Project ([Video][ss-template-video])
+    - Propagate Data in a Distributed Application ([Video][ss-data-video])
 
 [ss-data-video]: {% surfdrive /Self-Study/how-to-propagate-data-in-a-distributed-app.mp4 %}
 [ss-template-video]: {% surfdrive /Self-Study/template-project-tech-tutorial.mp4 %}
