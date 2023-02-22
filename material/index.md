@@ -55,10 +55,13 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 ### Week 2
 
 - *Mon:* Tools ([Slides][tools-slides], [Video][tools-video])
+- *Wed:* Collaborative Software Engineering ([Slides][cse-slides], [Video][cse-video])
 - *Fri, Self-Study:* Dependency Injection ([Slides][ss-di-slides], [Video][ss-di-video])
 
 [tools-slides]: {% surfdrive /Tools/tools-slides.pdf %}
 [tools-video]: {% surfdrive /Tools/tools-video.mp4 %}
+[cse-slides]: {% surfdrive /Collaborative-SE/collaborative-se-slides.pdf %}
+[cse-video]: {% surfdrive /Collaborative-SE/collaborative-se-video.mp4 %}
 [ss-di-slides]: {% surfdrive /Self-Study/dependency-injection-slides.mp4 %}
 [ss-di-video]: {% surfdrive /Self-Study/dependency-injection-video.mp4 %}
 
