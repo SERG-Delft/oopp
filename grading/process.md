@@ -14,10 +14,10 @@ The following rubrics contribute to the process grade.
 
 | Item | Description |
 | --- | --- |
-| Format | User stories have consistent format and convey the who/what/why |
-| Prioritization | The order of work is coherent (no forward requirements). The prioritization corresponds with the stated importance levels. |
-| Clarity | Is the level of detail clear to understand the whole system? Are transitions between features clear? Are there pictures to illustrate the interface? |
-| Completeness | Does the backlog reflect the complete system? |
+| Structure | The backlog follows the expected document structure, contains a good level of detail, and is written in a clear fashion. |
+| Epics | The different application features have been identified and proritized. Epics are properly introduced to clarify the features and their scopes. |
+| User Stories | User stories have consistent format and convey the who/what/why. They focus on the user perspective and cover all requested features. |
+| Acceptance Criteria | User stories are either small and have a clear effect, or explicit acceptance criteria are used for clarification. Stories/criteria describe a measurable/observable way to decide when they are done/finished. |
 
 
 
