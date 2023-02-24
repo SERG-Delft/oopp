@@ -8,9 +8,9 @@ nav_order: 3
 
 # {{ page.title }}
 
-TODO: Add last years criteria
-
 | Item | Description |
 | --- | --- |
-| Formalities | Follows the formatting guidelines (ACM format, length, structure) |
-| ... | ... |
+| Methods: Reporting | The report clearly describes the prototype and the methodology, so the evaluation could be repeated by someone else. |
+| Methods: Execution | The execution of the evaluation is well documented and the chosen procedure follows the guidelines provided in the lecture. |
+| Results, Analysis & Conclusion | The report lists the identified problems individually and links the corresponding heuristic to it. The problems are analyzed and a thorrough conclusion is formulated that is based on the obtained results. |
+| Improvements | Does the evaluation clearly describe of the changes (relating to results/heuristics) and prioritize the improvements? Are the changes appropriate for each problem given the heuristic? Does the report give a good overview of the final GUI?|
