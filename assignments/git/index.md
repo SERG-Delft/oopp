@@ -44,6 +44,6 @@ To complete this assignment, just follow all [instructions][instructions].
 You do not need to upload anything to Brightspace, just make sure your changes have been uploaded (pushed) to your personal Git repository.
 Your TA will verify from your repository that you have completed the assignment.
 
-[instructions]: {{site.baseUrl}}/assignments/git/instructions
+[instructions]: {{site.baseurl}}/assignments/git/instructions
 
 
