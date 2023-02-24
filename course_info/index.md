@@ -18,7 +18,7 @@ In this course, you will learn how to collaboratively create a complex software 
 1. Act professionally in a team of software developers
 2. Manage a complex software project in a group
 3. Follow a collaborative software engineering process
-4. Create a distributed application from a provided set of project
+4. Create a distributed application from a provided set of project requirements
 5. Evaluate the design of a user interface with a heuristic usability evaluation
 
 The first weeks of the course will focus on lectures and some self-study assignments to get you and your team started with the project.
