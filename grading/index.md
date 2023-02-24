@@ -25,7 +25,8 @@ The rubrics will be scored on a basic scale:
 - **Insufficient:** Below the required level. This must be addressed as soon as possible and should improve significantly.
 - **Sufficient:** Right around the required level, pay attention not to slip into an insufficient.
 - **Good:** A solid level that shows that the assignment goals have been well met.
-- **Excellent:** Great submission that exceeds the expectations. Well done!
+- **Very Good:** A good submission, which exceeds the expectations in some aspects.
+- **Excellent:** Great submission that overall exceeds the expectations. Well done!
 
 The goal of the formative feedback is to warn you in time about aspects of your project that are below the expected level.
 Formative feedback does not influence the grade, the goal is to inform you about your study progress and to help you understand how we will assess your efforts in the end.
@@ -34,7 +35,7 @@ Please note that not improving an insufficient rating until the course ends will
 
 ## Pass/Fail criteria
 
-The course defines pass/fail criteria to ensure that students can follow the teamwork phase by checking whether necessary skills have been acquired in the first week.
+The course defines pass/fail criteria to ensure that students can follow the teamwork phase by checking whether necessary skills have been acquired in the first weeks.
 Also, the criteria protect teams from unmotivated students that try to capitalize on the work of others.
 
 {: .caution}
