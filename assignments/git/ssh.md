@@ -1,18 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-# [Link button](http://example.com/){: .btn .btn-tud }
-
 layout: page
-title: Set up SSH keys
+title: Create SSH Keys
 parent: Git
 grand_parent: Assignments
-nav_order: 3
+nav_order: 2
 permalink: /assignments/git/ssh
 ---
 
-# Set up SSH Keys
+# {{ page.title }}
 
 SSH keys are a way to authenticate yourself to another party, for example, for remote terminal access or services like GitLab.
 They replace the need for the usual username/password authentication.

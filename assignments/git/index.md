@@ -15,6 +15,11 @@ Before you start working on this assignment, make sure that you have [Installed 
 To make sure that you have a verified account, please login at [gitlab.ewi.tudelft.nl](https://gitlab.ewi.tudelft.nl) at least once using your NetID and the TUD Single Sign-on.
 Please note that `gitlab.tudelft.nl` is a separated, unrelated server.
 
+{: .caution}
+Please setup SSH first and make sure that your connection is working.
+In case of problems, the debug output of SSH will provide valuable information.
+Only try to setup Git, after you have confirmed that SSH is working!
+
 There are multiple ways to use Git, for example, from the terminal (entering raw commands), through a dedicated UI, or through an integration in your editor.
 The examples in this assignment will show you the terminal commands, but you are free to use any other Git client of your choice.
 The most important task for you is to get familiar with the terms, concepts, and the basic Git operations.
@@ -35,17 +40,10 @@ When you open [GitLab](https://gitlab.ewi.tudelft.nl), you will have access to t
 While the team repository will contain a template project for your application, your personal is empty.
 Use your personal repository for the assignment.
 
-To complete this assignment, just complete all instructions below.
-You do not need to upload anything to Brightspace, just make sure your changes have been uploaded (pushed) to your GitLab repository.
-Your TA will checkout your repository and will see that you have completed the assignment.
+To complete this assignment, just follow all [instructions][instructions].
+You do not need to upload anything to Brightspace, just make sure your changes have been uploaded (pushed) to your personal Git repository.
+Your TA will verify from your repository that you have completed the assignment.
 
-
-
-## Instructions
-
-{: .caution}
-Work on this page has not finished yet.
-Expect completion in the first weeks of the course.
-
+[instructions]: {{site.baseUrl}}/assignments/git/instructions
 
 

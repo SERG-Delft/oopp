@@ -1,18 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-# [Link button](http://example.com/){: .btn .btn-tud }
-
 layout: page
-title: Install Git
+title: Install & Configure Git
 parent: Git
 grand_parent: Assignments
-nav_order: 2
+nav_order: 1
 permalink: /assignments/git/install
 ---
 
-# Install & Configure Git
+# {{ page.title }}
 
 Git is not installed on every machine.
 You can check by running the following command on your terminal;
