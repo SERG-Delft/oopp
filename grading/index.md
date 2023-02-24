@@ -17,20 +17,21 @@ This course provides *formative feedback* throughout the course and defines *pas
 ## Formative Feedback
 
 Throughout the course, you will receive formative feedback from your TAs using the same rubrics that will be used for the final, summative assessment.
-Each week has certain focus points that are usually focussing on recent assignments.
-The feedback will be available before each week's TA meeting, so check in with your TA, should you have clarification questions.
+Each weeks feedback has certain focus points that are usually focussing on recent assignments.
+The feedback will always be available before the TA meeting, so you can directly clarify any comment with your TA.
 
-The rubrics will be scored on a basic scale:
+While some rubric items will be *pass/fail*, most rubric items are scored on a basic scale:
 
-- **Insufficient:** Below the required level. This must be addressed as soon as possible and should improve significantly.
-- **Sufficient:** Right around the required level, pay attention not to slip into an insufficient.
-- **Good:** A solid level that shows that the assignment goals have been well met.
-- **Very Good:** A good submission, which exceeds the expectations in some aspects.
-- **Excellent:** Great submission that overall exceeds the expectations. Well done!
+- *Insufficient:* Below the required level. This must be addressed as soon as possible and should improve significantly.
+- *Sufficient:* Right around the required level, pay attention not to slip into an insufficient.
+- *Good:* A solid level that shows that the assignment goals have been well met.
+- *Very Good:* A good submission, which exceeds the expectations in some aspects.
+- *Excellent:* Great submission that overall exceeds the expectations. Well done!
 
 The goal of the formative feedback is to warn you in time about aspects of your project that are below the expected level.
 Formative feedback does not influence the grade, the goal is to inform you about your study progress and to help you understand how we will assess your efforts in the end.
-Please note that not improving an insufficient rating until the course ends will be reflected in your grade, or it might even affect your ability to pass the course.
+
+*Please note:* Not improving an insufficient rating before the course ends will be reflected in your grade; it might even affect your ability to pass the course.
 
 
 ## Pass/Fail criteria
