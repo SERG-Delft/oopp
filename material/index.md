@@ -67,11 +67,12 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 
 ### Week 3
 
-
+- *Mon:* Getting Started with Spring ([Slides][spring-slides])
 - *Fri, Self-Study:*
     - Tech Demo for Template Project ([Video][ss-template-video])
     - Propagate Data in a Distributed Application ([Video][ss-data-video])
 
+[spring-slides]: {% surfdrive /Spring/getting-started-with-spring.pdf %}
 [ss-data-video]: {% surfdrive /Self-Study/how-to-propagate-data-in-a-distributed-app.mp4 %}
 [ss-template-video]: {% surfdrive /Self-Study/template-project-tech-tutorial.mp4 %}
 

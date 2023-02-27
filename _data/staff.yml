@@ -24,7 +24,7 @@ tas:
     email: k.w.vanduijne at student tudelft nl
     netid: kvanduijne
     groups: 5, 10, 15, 20
-    spot: DW PC2 back right
+    spot: IZ1
   - name: Joris Belder
     email: j.belder-1 at student tudelft nl
     netid: jorisbelder
@@ -45,10 +45,10 @@ tas:
     netid: cbrita
     groups: 21-24
     spot: DW PC1 cubicle 5
-  - name: TODO
-    email: TODO
-    netid: TODO
-    spot: DW PC2 middle
+  - name: Alexandru Cojocaru
+    email: a.g.cojocaru-2 at student tudelft nl
+    netid: agcojocaru
+    spot: IZ1
     groups: 25, 30, 35
   - name: Carina-Silvia Oprean
     email: c.s.oprean at student tudelft nl
@@ -104,14 +104,14 @@ tas:
     email: a.i.neagu at student tudelft nl
     netid: alexandraioana
     groups: 68-71
-    spot: DW PC2 front left
+    spot: IZ1
   - name: Elena Dumitrescu
     email: e.i.dumitrescu-1 at student tudelft nl
     netid: edumitrescu
     groups: 72-75
-    spot: DW PC2 front right
+    spot: IZ2
   - name: Iarina Tudor
     email: i.m.tudor at student tudelft nl
     netid: itudor
     groups: 76-79
-    spot: DW PC2 back left
+    spot: IZ2
