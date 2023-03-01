@@ -33,8 +33,8 @@ You can find the required password on Brightspace: *Content » Course Info » Co
     - [Role: Minute Taker][teamwork-minute-taker]
     - [Role: Chair][teamwork-chair]
 - *Fri, Self-Study:*
-    - Requirements Engineering ([Video][re-video], [Slides][re-slides])
-    - Project Management ([Video][pm-video], [Slides][pm-slides])
+    - Requirements Engineering ([Slides][re-slides], [Video][re-video])
+    - Project Management ([Slides][pm-slides], [Video][pm-video])
 
 [intro-slides]: {% surfdrive /Introduction/intro-slides.pdf %}
 [intro-video]: {% surfdrive /Introduction/intro-video.mp4 %}
@@ -68,10 +68,13 @@ You can find the required password on Brightspace: *Content » Course Info » Co
 ### Week 3
 
 - *Mon:* Getting Started with Spring ([Slides][spring-slides], [Video][spring-video])
+- *Wed:* Getting Started with OpenJFX ([Slides][jfx-slides], [Video][jfx-video])
 - *Fri, Self-Study:*
     - Tech Demo for Template Project ([Video][ss-template-video])
     - Propagate Data in a Distributed Application ([Video][ss-data-video])
 
+[jfx-video]: {% surfdrive /OpenJFX/Getting-Started-with-OpenJFX.mp4 %}
+[jfx-slides]: {% surfdrive /OpenJFX/Getting-Started-with-OpenJFX.pdf %}
 [spring-slides]: {% surfdrive /Spring/getting-started-with-spring-slides.pdf %}
 [spring-video]: {% surfdrive /Spring/getting-started-with-spring-video.mp4 %}
 [ss-data-video]: {% surfdrive /Self-Study/how-to-propagate-data-in-a-distributed-app.mp4 %}
