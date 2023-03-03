@@ -60,28 +60,14 @@ Change your current directory to where you want to store the repository, create 
 Double check that you have run `git init` in the right folder that contains your netid.
 The rest of this assignment assumes that you are running commands from within this directory.
 
-Run `git config -l` to see the complete Git configuration.
-If you have not set your name or email address yet both can be conveniently set globally with two simple commands.
-Leave out the `--global` option if you prefer to configure the information on a per-project basis.
+Make sure that you have setup the [Recommended Git configuration][git-setup].
+Run `git config -l` to see the configured details, which should contain entries for your *name*, *email address* and for *line-endings* (`autocrlf`).
+If any of these are missing, set them now.
+Most importantly, ensure that your *email address* ends in a `@student.tudelft.nl` or you won't be able to push your commits to the server.
 
-    $ git config --global user.name "Your Full Name"
-	$ git config --global user.email "your-student-email-that-MUST-end-in@student.tudelft.nl"
+[git-setup]: {% link assignments/git/install.md %}
 
-Windows users should enable additional handling of newline characters in versioned files.
-In contrast to Linux and macOS, which only use a single *line-feed* character to indicate a line-break, Windows uses two characters: *line-feed* and *carriage-return* (think of old type writers!).
-
-It can quickly become annoying in projects that have contributors with different operating systems, when line-endings are constantly replaced on edit.
-It is the accepted default that the repository should only contain *line-feed*.
-Git can be configured to auto-correct the line-endings for you:
-
-    $ git config --global core.autocrlf true # use only on Windows!
-
-On non-Windows computers, you can set the same setting to `input`, to eliminate any *carriage-returns* that might have been accidentally introduced.
-
-    $ git config --global core.autocrlf input # use only on macOS/Linux
-
-
-At this point, you have a fully working local repository that you can use for versioning files in the `oopp-<netid>` directory.
+At this point, `oopp-<netid>` is a fully working local repository that you can use for versioning files.
 
 #### Adding Content
 
