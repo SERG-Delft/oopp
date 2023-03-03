@@ -4,7 +4,6 @@ title: Git
 parent: Assignments
 has_children: true
 has_toc: false
-permalink: /assignments/git/
 ---
 
 # {{ page.title }}
@@ -24,8 +23,8 @@ There are multiple ways to use Git, for example, from the terminal (entering raw
 The examples in this assignment will show you the terminal commands, but you are free to use any other Git client of your choice.
 The most important task for you is to get familiar with the terms, concepts, and the basic Git operations.
 
-[install-git]: {{site.baseurl}}/assignments/git/install
-[setup-ssh]: {{site.baseurl}}/assignments/git/ssh
+[install-git]: {% link assignments/git/install.md %}
+[setup-ssh]: {% link assignments/git/ssh.md %}
 
 {: .caution }
 We *strongly* encourage you to [setup SSH](ssh-keys) and *avoid* password authentication.
@@ -44,6 +43,6 @@ To complete this assignment, just follow all [instructions][instructions].
 You do not need to upload anything to Brightspace, just make sure your changes have been uploaded (pushed) to your personal Git repository.
 Your TA will verify from your repository that you have completed the assignment.
 
-[instructions]: {{site.baseurl}}/assignments/git/instructions
+[instructions]: {% link assignments/git/instructions.md %}
 
 

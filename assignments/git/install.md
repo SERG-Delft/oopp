@@ -4,7 +4,6 @@ title: Install & Configure Git
 parent: Git
 grand_parent: Assignments
 nav_order: 1
-permalink: /assignments/git/install
 ---
 
 # {{ page.title }}
@@ -37,7 +36,7 @@ We advise to set it globally using the following commands on your terminal.
 
 ```
 git config --global user.name “Your full name”
-git config --global user.email “Your student email that ends in @student.tudelft.nl”
+git config --global user.email “your-student-email-that-MUST-end-in@student.tudelft.nl”
 ```
 
 A *per project* configuration omits the `--global` flag.
@@ -49,8 +48,23 @@ git config --global user.email
 ```
 
 This should output whatever you configured using the commands above.
-You should now have everything set to get started with git.
 
 {: .caution}
 Make sure that you use your *full name* and your *student email address* that ends with `@student.tudelft.nl` or the server will reject your push.
+
+### Configure your line-endings
+
+In contrast to Linux and macOS, which only use a single *line-feed* character to indicate a line-break, Windows uses two characters: *line-feed* and *carriage-return*.
+
+It can quickly become annoying in projects that have contributors with different operating systems, when line-endings are not used consistently and constantly replaced *on edit*.
+The accepted default is to only store *line-feeds* in the repository.
+
+On Windows, Git can be configured to auto-correct the line-endings for you:
+
+    $ git config --global core.autocrlf true # use only on Windows!
+
+On non-Windows computers, you can set the same setting to `input`, to eliminate any *carriage-returns* that might already have been accidentally introduced into the project.
+
+    $ git config --global core.autocrlf input # use only on macOS/Linux
+
 

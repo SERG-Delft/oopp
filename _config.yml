@@ -37,20 +37,15 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: OOPP
 email: oopp-cs-ewi@tudelft.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Website and assignments for the OOP Project (CSE1105) at Delft University of Technology.
   This course is part of the bachelor of Computer Science and Engineering.
-baseurl: "/oopp" # the subpath of your site, e.g. /blog
-url: "https://se.ewi.tudelft.nl" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+
+url: "https://se.ewi.tudelft.nl"
+baseurl: "/oopp"
+permalink: /:categories/:title/
 
 surfdrive_id: "dXHxHUoVNEXvX3o" # the hash from a surfdrive link
 surfdrive: "https://surfdrive.surf.nl/files/index.php/s/dXHxHUoVNEXvX3o"

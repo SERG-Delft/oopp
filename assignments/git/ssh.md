@@ -4,7 +4,6 @@ title: Create SSH Keys
 parent: Git
 grand_parent: Assignments
 nav_order: 2
-permalink: /assignments/git/ssh
 ---
 
 # {{ page.title }}

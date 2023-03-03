@@ -4,7 +4,6 @@ title: Instructions
 parent: Git
 grand_parent: Assignments
 nav_order: 3
-permalink: /assignments/git/instructions
 ---
 
 # {{ page.title }}
@@ -19,7 +18,7 @@ This will allow you to recognize all the modifications that have already been in
 
 
 
-[tools]: {{site.baseurl}}/material/
+[tools]: {% link material/index.md %}
 
 ### Syntax
 
@@ -545,7 +544,7 @@ This provides a much better overview over the repository by not just listing all
 While this is already a great improvement over a basic `git log`, we strongly recommend you to consider using a graphical Git client.
 The following shows a rendering in the Sourcetree application:
 
-![Graphical representation of the repository](images/sourcetree-all-branches.png)
+![Graphical representation of the repository]({% link assignments/git/images/sourcetree-all-branches.png %})
 
 The presented information is the same, but the graphical capabilities of a UI application not only allow for a much nicer layouting, you will also get convenient, context-specific access to many basic operations just by clicking on the various elements.
 The graphic representation also tends to be easier to consume when the repository grows.
