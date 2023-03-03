@@ -26,6 +26,9 @@ parent: Course Info
     </tbody>
 </table>
 
+*Important:* Only reach out to the lecturers in matters that cannot be discussed publicly and only use email.
+Make sure to use your student address or your email won't be delivered.
+
 ## Head TAs
 
 <table>
