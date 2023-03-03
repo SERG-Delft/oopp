@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule/
 nav_order: 2
 parent: Course Info
 has_toc: false
-permalink: /course_info/schedule/
 ---
 
 ## {{ page.title }}

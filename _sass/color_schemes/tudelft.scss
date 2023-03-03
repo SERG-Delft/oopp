@@ -20,29 +20,24 @@ $btn-primary-color: $tud-blue !default;
 $callouts: (
   info: (
     $tud-blue,
-    rgba($tud-blue, 0.2),
+    rgba($tud-blue, 0.1),
     "INFO",
   ),
   recommendation: (
     $green-300,
-    rgba($green-300, 0.2),
+    rgba($green-300, 0.1),
     "RECOMMENDATION",
   ),
   caution: (
     $yellow-300,
-    rgba($yellow-000, 0.2),
+    rgba($yellow-000, 0.1),
     "CAUTION",
   ),
   important: (
     $red-300,
-    rgba($red-000, 0.2),
+    rgba($red-000, 0.1),
     "IMPORTANT",
-  ),
-  assignment: (
-    $grey-dk-100,
-    rgba($grey-dk-100, 0.2),
-    "ASSIGNMENT",
-  ),
+  )
 );
 
 @each $class, $props in $callouts {

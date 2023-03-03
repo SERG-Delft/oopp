@@ -3,7 +3,6 @@ layout: page
 title: Staff
 nav_order: 5
 parent: Course Info
-permalink: /course_info/staff/
 ---
 
 # Course staff

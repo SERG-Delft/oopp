@@ -3,7 +3,6 @@ layout: home
 title: Course Info
 has_children: true
 nav_order: 1
-permalink: /
 has_toc: false
 ---
 
