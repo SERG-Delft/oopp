@@ -58,12 +58,33 @@ Change your current directory to where you want to store the repository, create 
     $ cd oopp-<netid>
     $ git init
 
-If you have not set your name or email address globally yet or prefer to configure the information on a per-project basis, you can do that now.
+Double check that you have run `git init` in the right folder that contains your netid.
+The rest of this assignment assumes that you are running commands from within this directory.
 
-    $ git config user.name "Your Full Name"
-	$ git config user.email "your-student-email-that-MUST-end-in@student.tudelft.nl"
+Run `git config -l` to see the complete Git configuration.
+If you have not set your name or email address yet both can be conveniently set globally with two simple commands.
+Leave out the `--global` option if you prefer to configure the information on a per-project basis.
+
+    $ git config --global user.name "Your Full Name"
+	$ git config --global user.email "your-student-email-that-MUST-end-in@student.tudelft.nl"
+
+Windows users should enable additional handling of newline characters in versioned files.
+In contrast to Linux and macOS, which only use a single *line-feed* character to indicate a line-break, Windows uses two characters: *line-feed* and *carriage-return* (think of old type writers!).
+
+It can quickly become annoying in projects that have contributors with different operating systems, when line-endings are constantly replaced on edit.
+It is the accepted default that the repository should only contain *line-feed*.
+Git can be configured to auto-correct the line-endings for you:
+
+    $ git config --global core.autocrlf true # use only on Windows!
+
+On non-Windows computers, you can set the same setting to `input`, to eliminate any *carriage-returns* that might have been accidentally introduced.
+
+    $ git config --global core.autocrlf input # use only on macOS/Linux
+
 
 At this point, you have a fully working local repository that you can use for versioning files in the `oopp-<netid>` directory.
+
+#### Adding Content
 
 The first content of your new repository will be a `README.md` file.
 Create the file and add some arbitray contents to it with a text editor of your choice or just do it from the commandline:
@@ -80,7 +101,11 @@ You can check the status of your working directory with `git status`:
         (use "git add <file>..." to include in what will be committed)
             README.md
 
-This means that Git sees the change, but does not consider it, as the file is not tracked.
+The *status* shows you some information like the open changes or the branch that you are currently working on.
+If your current branch is `master` and not `main`, rename your branch with `git branch -m main`.
+We will cover more details on branching later.
+
+The *status* output shows you that Git sees the change in the `README.md`, but does not consider it, as the file is not tracked.
 Start tracking the file by adding it to the index, either by invoking `git add README.md` (to add this one file) or by adding *all* changes and untracked files by invoking `git add -A`.
 You can investigate the effect of this command by running `git status` again:
 
@@ -150,7 +175,7 @@ Delete `README.md` and restore it again.
 The approach is different for files that are not under version control, like the `LICENSE` file, which is now simply marked as new.
 If you want to remove these changes, you can either just delete this file directly on the file system, or you can use `git clean` to remove all untracked files from the whole working area at once.
 
-Be aware that you can loose unsaved work with this operation if you are not careful, as such, it is recommended to always perform a dry run first, before deleting anything.
+Be aware that you can loose unsaved work with this operation if you are not careful, as such, it is recommended to *always* perform a dry run first, before deleting anything.
 
     git clean -dn # first inspect all differences
     git clean -df # remove everything that is not under version control
@@ -162,15 +187,20 @@ The two most useful are:
 - `--mixed` resets the staging area, but not the working area
 - `--hard` reset both the staging area and the working area
 
-To investigate the effects of these options, first perform two changes and stage one of it.
+To investigate the effects of these options, first perform three changes and stage two of it.
 
-    $ echo "..." > LICENSE
-    $ echo "123" >> README.md # append content to the file
-    $ git add README.md # only stage the README.md
+    $ echo "..." >> README.md # append content to the file
+    $ echo "..." > LICENSE # create a new file
+    $ echo "..." > CONTRIBUTORS
+    $ git add LICENSE # only stage LICENSE
+
+The effect of running these commands is that you now have three different types of files: a file that was previous under version control that now has unstaged changes (`README.md`), a new file with staged changes (`LICENSE`), and a new file with unstages changes (`CONTRIBUTORS`).
 
 Now use `git reset --mixed` and use `git status` to see the effects.
 Re-introduce all changes and repeat the same with the `--hard` option.
-This should reset both your index and your working area at the same time and `git status` should report a clean working area and an empty index.
+You will see that the latter will reset all changes in your index *and* your working area at the same time, but only for files that are either *staged* or *tracked*.
+The untracked `CONTRIBUTORS` file is is not touched, so remove it manually or use a *clean* to get rid of it.
+At this point, `git status` should report a clean working area again and an empty index.
 
 
 ### Remotes
