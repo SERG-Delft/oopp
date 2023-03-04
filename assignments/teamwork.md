@@ -46,8 +46,8 @@ In the OOPP, we want you to create a Code of Conduct for your team as well.
 This will give you insights into what you expect from each other and it documents the agreements you make as a team.
 To help you with this important step, we have provided a [Template for a Code of Conduct][teamwork-coc], which covers various topics that we think you should have a discussion about.
 
-For the assignment, fill out the various sections and commit your *Code of Conduct* to your team repository (`/docs/code-of-conduct.docx`).
-This document is flexible, you can add sections that you find important in your team or remove sections that you think do not apply. 
+For the assignment, fill out the various sections and commit your *Code of Conduct* to your team repository (`/docs/code-of-conduct.docx`), the maximum acceptable length of the document is 4 pages in the given format.
+This document is flexible, you can add sections that you find important in your team or remove sections that you think do not apply.
 Also note that the Code of Conduct can change over time.
 When you manage to overcome a conflict in your team or learn something throughout the project, feel free to extend the document.
 
