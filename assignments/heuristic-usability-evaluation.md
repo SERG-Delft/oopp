@@ -4,7 +4,6 @@ title: Heuristic Usability Evaluation
 parent: Assignments
 has_children: false
 has_toc: false
-permalink: /assignments/heuristic-usability-evaluation/
 ---
 
 # {{ page.title }}

@@ -4,7 +4,6 @@ title: Backlog
 parent: Assignments
 has_children: false
 has_toc: false
-permalink: /assignments/backlog/
 ---
 
 # {{ page.title }}
@@ -24,7 +23,8 @@ We do not have requirements for the backlog layout, but we require that the back
 In general, we recommend to keep the document simple.
 You can use the official backlog of [last years project][backlog22] as a good indicator of the expected format.
 
-[backlog22]: https://docs.google.com/document/d/1ptXB0lVl1fwDGDOHM7SjDmAkXHuE3lTJHM3fCFIfHAk/edit?usp=sharing
+[backlog23]: {%link /grading/oopp23-talio-backlog.pdf%}
+[backlog22]: {%link /grading/oopp22-quizzzz-backlog.pdf%}
 
 
 ### User Stories

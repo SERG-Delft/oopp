@@ -4,7 +4,6 @@ title: Repair
 parent: Assignments
 has_children: false
 has_toc: false
-permalink: /assignments/repair/
 ---
 
 # {{ page.title }}

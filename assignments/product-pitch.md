@@ -4,7 +4,6 @@ title: Product Pitch
 parent: Assignments
 has_children: false
 has_toc: false
-permalink: /assignments/product-pitch/
 ---
 
 # {{ page.title }}

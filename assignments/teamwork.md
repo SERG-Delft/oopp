@@ -4,7 +4,6 @@ title: Teamwork
 parent: Assignments
 has_children: false
 has_toc: false
-permalink: /assignments/teamwork/
 ---
 
 # {{ page.title }}
