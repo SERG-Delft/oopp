@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Product Pitch
-permalink: /grading/product-pitch
 parent: Grading
-nav_order: 4
 ---
 
 # {{ page.title }}

@@ -2,7 +2,6 @@
 layout: page
 title: Product
 parent: Grading
-nav_order: 2
 ---
 
 # {{page.title}}

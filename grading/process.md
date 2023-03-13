@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Process
-permalink: /grading/process
 parent: Grading
-nav_order: 1
 ---
 
 # {{page.title}}

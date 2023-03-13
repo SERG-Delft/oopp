@@ -3,7 +3,6 @@ layout: page
 title: Grading
 has_children: true
 has_toc: false
-permalink: /grading/
 nav_order: 4
 ---
 
@@ -45,7 +44,7 @@ Each student needs to pass *all* criteria or they will fail the course, regardle
 
 - Upholding a professional attitude when interacting with peers and staff.
 - Attending all tutor meetings (Absence will only be excused on a case-by-case basis, when a valid reason has been indicated before(!) missing a meeting)
-- Completing all *individual* assignments
+- Completing all [individual assignments]({%link grading/individual-assignments.md%})
     - Passing the Git assignment
     - Having an accepted merge request of reasonable size
     - Constructive participation in all peer reviews

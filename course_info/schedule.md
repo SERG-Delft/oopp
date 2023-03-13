@@ -67,20 +67,20 @@ The course staff might grant an extension and issue a [repair assignment]({{site
 
 | Date | Description |
 | --- | --- |
-| Fri, Feb 24 | [Code of Conduct]({{ site.baseurl }}/assignments/teamwork/) |
-| Fri, Feb 24 | [Backlog (Draft)]({{ site.baseurl }}/assignments/backlog/) |
-| Fri, Mar 3 | [Backlog]({{ site.baseurl }}/assignments/backlog/) |
-| Fri, Mar 3 | [Git Assignment]({{ site.baseurl }}/assignments/git/) |
-| Fri, Mar 10 | Everybody has a meaningful MR |
-| Fri, Mar 10 | [Buddycheck 1](https://brightspace.tudelft.nl/d2l/le/content/499389/viewContent/3091454/View) |
-| Fri, Mar 24 | [Heuristic Usability Evaluation Report (Draft)]({{ site.baseurl }}/assignments/heuristic-usability-evaluation/) |
-| Fri, Mar 31 | [Teamwork Self Reflection (Draft)]({{ site.baseurl }}/assignments/teamwork/) |
-| Fri, Mar 31 | [Product Pitch (Draft)]({{ site.baseurl }}/assignments/product-pitch/) |
-| Fri, Apr 7 | [Heuristic Usability Evaluation Report]({{ site.baseurl }}/assignments/heuristic-usability-evaluation/) |
-| Fri, Apr 7 | [Product Pitch]({{ site.baseurl }}/assignments/product-pitch/) |
-| Fri, Apr 7 | Final code submission, group Repositories will turn read-only |
-| Thu, Apr 13 | [Teamwork Self Reflection]({{ site.baseurl }}/assignments/teamwork/) |
-| Thu, Apr 13 | [Buddycheck 2](https://brightspace.tudelft.nl/d2l/le/content/499389/viewContent/3091454/View) |
+| Fri, Feb 24 | [Code of Conduct]({%link assignments/teamwork.md%}) |
+| Fri, Feb 24 | [Backlog (Draft)]({%link assignments/backlog.md%}) |
+| Fri, Mar 3 | [Backlog]({%link assignments/backlog.md%}) |
+| Fri, Mar 3 | [Git Assignment]({%link assignments/git/index.md%}) |
+| Fri, Mar 10 | [Meaningful Merge Request]({%link assignments/meaningful-merge-request.md%}) |
+| Fri, Mar 10 | [Buddycheck (Midterm)]({%link assignments/buddycheck.md%}) |
+| Fri, Mar 24 | [Heuristic Usability Evaluation (Draft)]({%link assignments/heuristic-usability-evaluation.md%}) |
+| Fri, Mar 31 | [Teamwork Self Reflection (Draft)]({%link assignments/teamwork.md%}) |
+| Fri, Mar 31 | [Product Pitch (Draft)]({%link assignments/product-pitch.md%}) |
+| Fri, Apr 7 | [Heuristic Usability Evaluation]({%link assignments/heuristic-usability-evaluation.md%}) |
+| Fri, Apr 7 | [Product Pitch]({%link assignments/product-pitch.md%}) |
+| Fri, Apr 7 | Final Code Submission (team repositories will turn read-only) |
+| Thu, Apr 13 | [Teamwork Self Reflection]({%link assignments/teamwork.md%}) |
+| Thu, Apr 13 | [Buddycheck (Final)]({%link assignments/buddycheck.md%}) |
 | Tue, Apr 18/20/21 | Oral Examination |
 
 [1]: https://tudelft.zoom.us/j/95383570121?pwd=djZvYnpTNlN6Mkd5T2NBYTNpS0pudz09
