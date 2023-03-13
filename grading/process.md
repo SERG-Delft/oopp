@@ -15,20 +15,43 @@ The following rubrics contribute to the process grade.
 | Structure | The backlog follows the expected document structure, contains a good level of detail, and is written in a clear fashion. |
 | Epics | The different application features have been identified and proritized. Epics are properly introduced to clarify the features and their scopes. |
 | User Stories | User stories have consistent format and convey the who/what/why. They focus on the user perspective and cover all requested features. |
-| Acceptance Criteria | User stories are either small and have a clear effect, or explicit acceptance criteria are used for clarification. Stories/criteria describe a measurable/observable way to decide when they are done/finished. |
+
+The assessment of the user stories is based on the following detailed criteria:
+
+- *Format:* The user stories follow the required format (i.e., As *role*, I want to *requirement*,  so I can *reason*)
+- *User focus:* User stories have a clear focus on the user perspective.
+- *Scope:* Stories describe one particular interaction/workflow and have little to no overlap.
+- *Completeness:* All epics are covered with a good amount of user stories and the required interactions are covered. There are no obvious "gaps", for which it is not clear what the application should do. The epic description and its mockups are fully covered.
+- *Coherence:* The backlog does not contain contradicting requirements and the user stories do not overlap.
+- *Acceptance Criteria:* User stories are small and acceptance criteria implicit. Only overloaded user stories have concrete acceptance criteria. Effects are measurable/observable, which allows to decide when a story is done/finished.
 
 
+## Tasks and Planning
 
-## Planning and Task Distribution in GitLab
+#### Task Identification
 
 | Item | Description |
 | --- | --- |
-| Task Identification | User stories have been translated into actionable development tasks. |
-| Tasks Granularity | High-level features are broken down into small, manageable pieces that can be finished by a single developer in one day. Tasks are well-defined and have a clear description of the expected outcome and when they're considered done.                                                                |
-| Task Estimations | Tasks have an estimate, which is established in a team process (e.g., planning poker). Estimates of the upcoming tasks are being updated every week. |
-| Task Planning | The team uses issues and milestones to plan their future activities. Relevant events (unforeseen problems, updated estimates, ...) are taken into consideration and the overall task planning of all remaining tasks is regularly updated, for example, as preparation for the weekly TA meeting. |
-| Tasks Distribution | Tasks get equally distributed among the team members. |
-| Task Completion | Tasks actually get done. |
+| Actionability | User stories are broken down into multiple concrete, technical tasks. These tasks are either modelled as GitLab issues (recommended) or they have been added as nested lists to GitLab issues. Tasks are introduced with a short description (background/context/clarifications/...). |
+| Traceability | It is clear how technical tasks relate to user stories. Tags are used to make it easy to understand the source or nature of the various tasks (e.g., backlog, bug, extension, ...) |
+| Granularity | Tasks are reasonably sized, so developers can get them done in an average work session. The project history shows that team members get multiple tasks done every week. |
+| Expectations | Most tasks have a short description of the actions that need to be performed and the expected outcomes/explicit acceptance criteria. |
+
+#### Planning & Time Management
+
+| Item | Description |
+| --- | --- |
+| Effort Estimation | Efforts of all tasks have an estimate, which is kept up-to-date in every sprint planning. |
+| Assignment Tracking | Tasks get assigned to developers and their effort spent is tracked. |
+| Roadmap | Efforts and estimates are taken into consideration in the planning. The overall plan is regularly updated. |
+
+#### Task Distribution
+
+| Item | Description |
+| --- | --- |
+| Dedication | All developers contribute about the same amount of effort to the project. Time spent is discussed in the weekly meetings. The team takes active counter measures to keep deviations reasonable. |
+| Feature Isolation | Developers use feature branches to isolate their work from others while it is under development. The latest changes on main are integrated into the feature branch before opening a merge request (e.g., "merge main into feature" or "rebase feature onto main"). |
+| Areas of Expertise | All developers constantly contribute to all system parts. Tasks a not distributed by area, but by feature, which usually results in cross-cutting changes. |
 
 
  
@@ -41,7 +64,7 @@ The team will receive formative feedback on these assignments from a TA.
 It is required to reach at least a *Sufficient* rating in the end.
 Should a team receive an *Insufficient* rating in their weekly rubrics, it is required that the team shows willingness and initiative for improvement.
 
-The summative assessment of this part is based on a self-reflection of each *each student*:
+The summative assessment of this part is based on a self-reflection of *each student*:
 
 | Item | Description |
 | --- | --- |
