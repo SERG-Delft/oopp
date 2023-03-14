@@ -30,6 +30,6 @@ parent: Grading
 | Item | Description |
 | --- | --- |
 | Completion | The student has provided feedback in all required parts. |
-| Constructiveness | The student has provided feedback to all team members that adheres to the Teamwork principles. This includes concrete, reasonable, and actionable TIPs/TOPs for everybody. |
+| Constructiveness | The student has provided feedback to all team members that adheres to the Teamwork principles. This includes concrete, reasonable, and actionable TIPs/TOPs for everybody that follow the AID model. |
 | Positive Evaluation | The student has received an overall positive evaluation from their team (pass/fail element in second feedback round). |
 
