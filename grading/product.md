@@ -49,7 +49,7 @@ However, we will acknowledge if you *-for example-* spend additional time with f
 | --- | --- |
 | Dependency Injection | Application uses dependency injection to connect dependent components. No use of static fields in classes. |
 | Spring Boot | Application makes good use of the presented Spring built-in concepts to configure the server and maintain the lifecycle of the various server components. |
-| JavaFX | Application uses JavaFX for the client and makes good use of avialable features (use of buttons/images/lists/formatting/...). The connected JavaFX controllers are used with dependency injection. |
+| JavaFX | Application uses JavaFX for the client and makes good use of available features (use of buttons/images/lists/formatting/...). The connected JavaFX controllers are used with dependency injection. |
 | Communcation | Application uses communication via REST requests and Websockets. The code is leveraging the canonical Spring techniques for endpoints and websocket that have been introduced in the lectures. The client uses libraries to simplify access. |
 | Data Transfer | Application defines meaningful data structures and uses Jackson to perform the de-/serialization of submitted data. |
 
