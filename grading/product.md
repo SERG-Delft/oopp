@@ -57,7 +57,7 @@ However, we will acknowledge if you *-for example-* spend additional time with f
 
 | Item | Description |
 | --- | --- |
-| Coverage | The project uses tests in all parts of the application. Testing is an integral part of the coding activities. |
+| Coverage | Testing is an integral part of the coding activities. Unit tests cover all parts of the application (client, server, commons). Excellent teams will also pay attention to the (unit test) code coverage of crucial system components. |
 | Unit testing | Classes are tested in isolation. Configurable *dependent-on-components* are passed to avoid integration tests (for example, to avoid running a database or opening REST requests in each a test run). |
 | Indirection | The test suite includes tests for indirect input/output and behavior. |
 | Endpoint Testing | The REST API is tested through automated unit tests. |
