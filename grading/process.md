@@ -68,11 +68,12 @@ The summative assessment of this part is based on a self-reflection of *each stu
 
 | Item | Description |
 | --- | --- |
-| Formalities | Follows the formatting guidelines (ACM format, length, structure) |
-| Depth | The experience that has been picked as an example is suited for the reflection. The reflection has a good depth in all parts. |
-| Reflection on Existing Knowledge | The reflection discusses existing knowledge, questions, or assumptions. The reflection contains an articulation of a new understanding that results from the experience. |
-| Connection to Academic Concepts | The reflection draws connections between the experience and the concepts/theories that have been discussed in class. It is decribed how the theory was applied in practice. |
-| Evidence of Development | The reflection articulates a personal development. It elaborate on the transformation of a personal perspective or on a new insight that will affect future team work. |
+| Format | Follows the formatting guidelines (ACM format, length). |
+| Structure | Assignment refers to three distinct situations and *strictly* follows the template. |
+| Depth | All picked examples are suited for the reflection. The reflections are balanced and have a good depth in all parts. |
+| Reflection on Existing Knowledge | All reflections discuss existing knowledge, questions, or assumptions. The reflections contain an articulation of new understandings that results from the experiences. |
+| Connection to Academic Concepts | All reflections draw connections between the experience and the concepts/theories that have been discussed in class. It is decribed how the theory was applied in practice. |
+| Evidence of Development | All reflections articulate a personal development. They elaborate on the transformation of a personal perspective or on a new insight that will affect future team work. |
 
 
 
