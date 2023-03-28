@@ -45,7 +45,7 @@ You are free to structure your presentation as you see fit, but we would recomme
 - Main block: What is the state of your application? (ca. 8min)
     - Focus on the user perspective. Do not show code, but implemented features in action. Also, a working application is more interesting than just slides.
     - Which features are realized in the UI? How is the interaction flow?
-    - Review the [product grading schema]({{site.baseurl}}/grading/product-rubric) to understand which categories will be assessed. Show the features that make your application unique (or go beyond the requirements)
+    - Review the [product grading schema]({%link grading/product.md%}) to understand which categories will be assessed. Show the features that make your application unique (or go beyond the requirements)
     - If you have cool, but non-visible features, such as an advanced polling mechanism or a new protocol for the data exchange, please include this in the presentation as well.
 - How would you extend the application, technically or content-wise (ca. 1min)
 - Wrap-up (ca. 30s)
