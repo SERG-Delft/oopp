@@ -76,11 +76,11 @@ The course staff might grant an extension and issue a [repair assignment]({{site
 | Fri, Mar 24 | [Heuristic Usability Evaluation (Draft)]({%link assignments/heuristic-usability-evaluation.md%}) |
 | Fri, Mar 31 | [Teamwork Self Reflection (Draft)]({%link assignments/teamwork.md%}) |
 | Fri, Mar 31 | [Product Pitch (Draft)]({%link assignments/product-pitch.md%}) |
-| Fri, Apr 7 | [Heuristic Usability Evaluation]({%link assignments/heuristic-usability-evaluation.md%}) |
-| Fri, Apr 7 | [Product Pitch]({%link assignments/product-pitch.md%}) |
-| Fri, Apr 7 | Final Code Submission (team repositories will turn read-only) |
-| Thu, Apr 13 | [Teamwork Self Reflection]({%link assignments/teamwork.md%}) |
-| Thu, Apr 13 | [Buddycheck (Final)]({%link assignments/buddycheck.md%}) |
+| Fri, Apr 11 | [Heuristic Usability Evaluation]({%link assignments/heuristic-usability-evaluation.md%}) |
+| Fri, Apr 11 | [Product Pitch]({%link assignments/product-pitch.md%}) |
+| Fri, Apr 11 | Final Code Submission (team repositories will turn read-only) |
+| Thu, Apr 14 | [Teamwork Self Reflection]({%link assignments/teamwork.md%}) |
+| Thu, Apr 14 | [Buddycheck (Final)]({%link assignments/buddycheck.md%}) |
 | Tue, Apr 18/20/21 | Oral Examination |
 
 [1]: https://tudelft.zoom.us/j/95383570121?pwd=djZvYnpTNlN6Mkd5T2NBYTNpS0pudz09
