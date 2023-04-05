@@ -33,10 +33,15 @@ Take inspiration from the following questions:
 
 Feel free to adjust the questions to your concrete situation, while keeping the spirit of the original questions.
 
-The document must follow the ACM formatting template ([GitHub](https://github.com/proksch/template-report), [Overleaf](https://www.overleaf.com/read/zsdrgrzgncnb)), no change in the formatting is allowed.
+The document must follow the ACM formatting template ([GitHub](https://github.com/proksch/template-report), [Overleaf](https://www.overleaf.com/read/zsdrgrzgncnb)), no change in the formatting is allowed (font size, line height, margins, etc.).
+You are free however, to structure the document as you see fit.
 The created essay must contain at least 700 words, which should roughly translate to one page in the given format.
+
+{:.caution}
+The intent of the guidelines is to create comparable results.
+We will check the formatting guidelines strictly and fail repairs that ignore them.
 
 ## Submission
 
 The essay is to be submitted in the corresponding assignment on Brightspace.
-The relevant deadlines for the extended assignment and the repair assignment will be communicated to the student.
+The relevant deadlines for the assignment extension and the repair essay will be directly communicated to the student in the notification about the repair assignment.
