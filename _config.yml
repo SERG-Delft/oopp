@@ -47,8 +47,8 @@ url: "https://se.ewi.tudelft.nl"
 baseurl: "/oopp"
 permalink: /:categories/:title/
 
-surfdrive_id: "dXHxHUoVNEXvX3o" # the hash from a surfdrive link
-surfdrive: "https://surfdrive.surf.nl/files/index.php/s/dXHxHUoVNEXvX3o"
+surfdrive_id: "VK2lHxm0GgUmqLF" # the hash from a surfdrive link
+surfdrive: "https://surfdrive.surf.nl/files/index.php/s/VK2lHxm0GgUmqLF"
 
 # OOPP Specific things ----------------------------------------------------------------------------------------
 color_scheme: tudelft
