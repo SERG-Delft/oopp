@@ -1,31 +1,7 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Build settings
 theme: "just-the-docs"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
 exclude:
+  - "*.pxm"
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
@@ -38,13 +14,11 @@ exclude:
   - vendor/ruby/
 
 title: OOPP
-email: oopp-cs-ewi@tudelft.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Website and assignments for the OOP Project (CSE1105) at Delft University of Technology.
   This course is part of the bachelor of Computer Science and Engineering.
-
-url: "https://se.ewi.tudelft.nl"
 baseurl: "/oopp"
+url: "https://se.ewi.tudelft.nl"
 permalink: /:categories/:title/
 
 surfdrive_id: "VK2lHxm0GgUmqLF" # the hash from a surfdrive link
